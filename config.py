@@ -1,0 +1,1 @@
+ANALYZER_IDENTIFIER = "emulator-5554"
